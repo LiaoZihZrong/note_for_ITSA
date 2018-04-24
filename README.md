@@ -5,7 +5,7 @@
 用語學習:
 
 包含要include的 共有六項
-使用cin 或cin.getline中
+使用cin 或cin.getline中 <br>
 記得要 cin.ignore();
 
 
