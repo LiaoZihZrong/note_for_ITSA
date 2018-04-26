@@ -16,11 +16,12 @@
 如果遇到 輸入: x,y <br>
 可以使用 <暴力輸入法>  <br>
     
-<table>
+        <table><tr><td bgcolor=orange>
 int a,c; <br>
 char b ; <br>
 cin>>abc; <br>
-</table>
+                                    
+        </td></tr></table>
     
 這樣就能直接使用x和y做運算 <br>
   
