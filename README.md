@@ -15,12 +15,13 @@
 使用scanf 比 cin方便許多 <br>
 如果遇到 輸入: x,y <br>
 可以使用 <暴力輸入法>  <br>
-
-  <table>
+    
+<table>
 int a,c; <br>
 char b ; <br>
 cin>>abc; <br>
 </table>
+    
 這樣就能直接使用x和y做運算 <br>
   
 ----------------------------
