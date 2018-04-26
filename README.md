@@ -16,7 +16,7 @@
 如果遇到 輸入: x,y <br>
 可以使用 <暴力輸入法>  <br>
     
-        <table><tr><td bgcolor=orange>
+   <table><tr><td bgcolor=orange>
           int a,c; <br>
           char b ; <br> 
           cin>>abc; <br>
